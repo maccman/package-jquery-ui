@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui",
-  "version": "1.0",
+  "version": "1.0.0",
   "dependencies": {
     "jquery": "~1.7.2"
   }  
