@@ -1,7 +1,7 @@
 {
-  "name": "package-jquery-ui",
+  "name": "jquery-ui",
   "version": "1.0",
   "dependencies": {
-    "package-jquery": "git://github.com/maccman/package-jquery.git"
-  }
+    "jquery": "~1.7.2"
+  }  
 }
